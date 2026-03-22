@@ -1,8 +1,6 @@
 # Designrapport  
 ## NordTech Solutions AB  
 
-Grupp: Jacob, Jamie, Mohamad  
-Datum: 2026-02-24  
 Mottagare: Erik Bergström (IT-chef)  
 
 ---
